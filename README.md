@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 - 👋 Hi, I’m @bony5718
 - 👀 I’m interested in software quality automation
-- 🌱 I’m currently learning selenium, cypress and Playwright
+- 🌱 I’m currently learning Selenium, Cypress and Playwright
 - 💞️ I’m looking to collaborate on software QA and SDLC
 - 🤔 I’m looking for help with full-time software QA job search
 - 📫 Just send an e-mail at tasnim.bony97@gmail.com
