@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 👋 Hi, I’m @bony5718
+- 👋 Hi, I’m Farzana Tasnim Bony
 - 👀 I’m interested in software quality automation
 - 🌱 I’m currently learning Selenium, Playwright, Cypress
 - 💞️ I’m looking to collaborate on software QA and SDLC
